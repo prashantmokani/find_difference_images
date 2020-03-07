@@ -10,4 +10,4 @@ openCV
 
 # Results
 ![Result_1_Original](https://github.com/prashantmokani/find_difference_images/blob/master/res1.PNG)
-![Result_2_Modified](https://github.com/prashantmokani/find_difference_images/blob/master/res1.PNG)
+![Result_2_Modified](https://github.com/prashantmokani/find_difference_images/blob/master/res2.PNG)
